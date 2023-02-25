@@ -1,0 +1,32 @@
+Project Name,Delivery Lead,Navigator Id,Resource Name,Resource Type,Resource BRID,Start Date,End Date,Percentage Allocation
+Project A,Rana Aetigadda / Ankit Patel,300568,Sumit Dhadwade,Perm,G01333807,1-Oct-21,15-Oct-21,60%
+Project B,Rana Aetigadda / Ankit Patel,300568,Sumit Dhadwade,Perm,G01333807,16-Oct-21,18-Oct-21,40%
+Project B,Rana Aetigadda / Ankit Patel,300568,Sumit Dhadwade,Perm,G01333807,19-Oct-21,21-Oct-21,10%
+Pware Decom,Rana Aetigadda / Ankit Patel,300568,Sushma Kakad,Vendor,G01324614,1-Oct-21,31-Dec-21,100%
+Pware Decom,Rana Aetigadda / Ankit Patel,300568,Deepak Arora,Perm,G01044740,1-Oct-21,31-Dec-21,80%
+Pware Decom,Rana Aetigadda / Ankit Patel,300568,Priti Gohil,Perm,G01356240,1-Oct-21,31-Dec-21,50%
+Collections Pware Decom,Donna Riley / Suriya Raman,300568,Deepak Arora,Perm,G01044740,1-Oct-21,31-Dec-21,20%
+Collections DWH on PCDS2.0,Donna Riley / Suriya Raman,,,,,,,
+PCDS Simplification (moving to PCDS2.0) - Loans,Girsih Bhatia,,,,,,,
+Collections,Girsih Bhatia,,,,,,,
+PCDS Simplification (moving to PCDS2.0) - Deposits,Girsih Bhatia,,,,,,,
+PCDS Simplification (moving to PCDS2.0) - Reporting,Girsih Bhatia,,,,,,,
+PCDS Simplification (moving to PCDS2.0) - Partnership programs,Girsih Bhatia,,,,,,,
+PCDS Simplification (moving to PCDS2.0) - Rewards,Girsih Bhatia,,,,,,,
+SSoT - Foundation,Sangeeta M Khatwani,300568,Satyaki Basu,Perm,H08475008,1-Oct-21,31-Dec-21,100%
+SSoT - ECM (SAS/ Hadoop / Pware / PCDS),Sangeeta M Khatwani,300568,Prabhu Pasupathiraj,Perm,G09635411,1-Oct-21,31-Dec-21,45%
+SSoT - ECM (SAS/ Hadoop / Pware / PCDS),Sangeeta M Khatwani,300568,Megha Jain,Perm,E20040387,1-Oct-21,31-Dec-21,100%
+SSoT - ECM (SAS/ Hadoop / Pware / PCDS),Sangeeta M Khatwani,300568,Mohanna Acharya,Vendor,,1-Oct-21,31-Dec-21,100%
+SSoT - Partner Analytics,Sangeeta M Khatwani,300568,Prabhu Pasupathiraj,Perm,G09635411,1-Jul-21,30-Sep-21,60%
+SSoT - Acquisitions,Sangeeta M Khatwani,300568,Mohanna Acharya,Vendor,,,,
+SSoT - Hadoop Simplification,Sangeeta M Khatwani,300568,Paras Patel,Perm,G01366911,1-Nov-21,31-Dec-21,100%
+SSoT - Hadoop Simplification,Sangeeta M Khatwani,300568,Prashanti,Perm,G01183368,15-Nov-21,31-Dec-21,100%
+SSoT - SAS History ,Sangeeta M Khatwani,300568,,,,,,
+GAP - GAP Conversion,,,,,,,,
+GAP - File Exchanges with Synchrony - Rewards,,,,,,,,
+GAP - GAP Enhancements,,,,,,,,
+Payments Book of work (Bank Wide Project),Asha Rani,,Pasu Ramasamy,Perm,G01016406,1-Nov-21,31-Dec-21,50%
+Consumer Loans,Asha Rani,,Pasu Ramasamy,Perm,G01016406,1-Nov-21,31-Dec-21,50%
+Digital wallet data model ,Asha Rani,,,,,,,
+Fin Crime - SAM8 CRR Design,Asha Rani,,Priti Gohil,Perm,G01356240,1-Oct-21,31-Dec-21,50%
+Customer Master,Meetu Agarwal,,,,,,,
